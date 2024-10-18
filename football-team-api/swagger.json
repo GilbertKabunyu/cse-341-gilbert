@@ -6,7 +6,7 @@
     "summary": "API for managing football teams and user management",
     "version": "1.0.0"
   },
-  "host": "https://cse-341-project1-b4de.onrender.com",
+  "host": "cse-341-gilbert.onrender.com",
   "basePath": "/api",
   "schemes": ["https"],
   "paths": {
